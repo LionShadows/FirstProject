@@ -33,7 +33,7 @@ void main()
 	system("cls");
 	printf("\n|  卡号  | 用户名 | 卡内余额  |  学生信息 |");
 	printf("\n|--------|--------|-----------|-----------|");
-	printf("\n|  %5  |  %8s  |  %7.2lf  |  %3d  |",1,"test",100.0,1);
+	printf("\n|  %5d  |  %8s  |  %7.2lf  |  %3d  |",1,"test",100.0,1);
 	printf("\n|--------|--------|-----------|---------|\n");
 }
 // the first part of the traffic system
