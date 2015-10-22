@@ -1,3 +1,5 @@
+//Effective C++：条款24：若所有参数皆需类型转换，请为此采用non-member函数
+
 #include <iostream>
 using namespace std;
 
